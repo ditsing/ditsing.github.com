@@ -4,11 +4,11 @@
   <title><![CDATA[Blog of Ditsing]]></title>
   <link href="http://ditsing.github.com/atom.xml" rel="self"/>
   <link href="http://ditsing.github.com/"/>
-  <updated>2012-02-28T20:39:34+08:00</updated>
+  <updated>2012-02-28T20:44:18+08:00</updated>
   <id>http://ditsing.github.com/</id>
   <author>
-    <name><![CDATA[ditsing@gmail.com]]></name>
-    
+    <name><![CDATA[ditsing]]></name>
+    <email><![CDATA[ditsing@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
