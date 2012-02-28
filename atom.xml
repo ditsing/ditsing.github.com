@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Blog of ditsing]]></title>
+  <title><![CDATA[Blog of Ditsing]]></title>
   <link href="http://ditsing.github.com/atom.xml" rel="self"/>
   <link href="http://ditsing.github.com/"/>
-  <updated>2012-02-28T20:23:16+08:00</updated>
+  <updated>2012-02-28T20:39:34+08:00</updated>
   <id>http://ditsing.github.com/</id>
   <author>
-    <name><![CDATA[ditsing]]></name>
+    <name><![CDATA[ditsing@gmail.com]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
