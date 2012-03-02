@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Perl | Blog of Ditsing]]></title>
+  <link href="http://ditsing.github.com/blog/categories/perl/atom.xml" rel="self"/>
+  <link href="http://ditsing.github.com/"/>
+  <updated>2012-03-02T20:36:37+08:00</updated>
+  <id>http://ditsing.github.com/</id>
+  <author>
+    <name><![CDATA[ditsing]]></name>
+    <email><![CDATA[ditsing@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[记一件naive的事儿]]></title>
+    <link href="http://ditsing.github.com/blog/2012/03/02/ji-yi-jian-naivede-shi-er/"/>
+    <updated>2012-03-02T19:24:00+08:00</updated>
+    <id>http://ditsing.github.com/blog/2012/03/02/ji-yi-jian-naivede-shi-er</id>
+    <content type="html"><![CDATA[<p><title>Category: Perl</title></p>
+
+<p>最近在写一个关于课程表的程序，跟中文正则表达式打了很多交道。<!-- more -->比如一次我需要把“周三”中的那个“三”转成数字。作为一个菜鸟Perler，我在一切可以用到正则表达式的地方放上一个正则表达式。在这儿，我非常naive的认为，中文的“三”也是一个数字，正则里的"\d"应该可以匹配，于是我这么写了
+<code>perl Match Code
+$event =~ s/周(\d*)/$1/;
+$event = find_num( $event);
+</code>
+而且很神奇的是它居然达到了我的目的。于是我naive的认为Perl是如此的强大，居然连中文的数字都能识别。
+但是之后我用其他的代码做实验，无论是Perl 5.8, 5.10 还是5.12都匹配不上，于是我naive的认为只有最新的Perl 5.14才可以。直到今天我review了我的代码，才突然发现其中的问题。相信我的读者们也都看出来了。</p>
+
+<p>不过话说回来，Perl的正则还是很强大的，真的是得心应手。所以我决定，把这个bug永久留在我的代码里了。</p>
+]]></content>
+  </entry>
+  
+</feed>
