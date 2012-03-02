@@ -106,7 +106,14 @@
 <p>神奇的是它居然达到了我的目的，最后我确实得到了数字3。 find_num 是个无辜的函数，它负责把“三”转成3。</p>
 
 <p>于是naive的我naive的认为Perl是如此的强大，居然连中文的数字都能识别。
-但是之后我用其他的代码做实验，无论是Perl 5.8, 5.10 还是5.12都匹配不上，于是我naive的认为只有最新的Perl 5.14才可以。直到今天我review了我的代码，才突然发现其中的问题。相信我的读者们也都看出来了。</p>
+但是之后我用其他的代码做实验，无论是Perl 5.8, 5.10 还是5.12都匹配不上，于是我再次naive的认为只有最新的Perl 5.14才可以。直到今天我review了我的代码，用5.14测试了</p>
+
+<figure class='code'><figcaption><span>Code</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='perl'><span class='line'><span class="sr">s/周(\d)/$1/</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>，发现也匹配不上，这才突然发现了其中的问题。相信我的读者们也都看出来了。</p>
 
 <p>不过话说回来，Perl的正则还是很强大的，真的是得心应手。所以我决定，把这个bug永久留在我的代码里了。</p>
 </div>
