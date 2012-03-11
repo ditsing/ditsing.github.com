@@ -95,7 +95,7 @@
 
 <div class="entry-content"><p>最近在写一个关于课程表的程序，跟中文正则表达式打了很多交道。<!-- more -->比如一次我需要把“周三”中的那个“三”转成数字。作为一个菜鸟Perler，我在一切可以用到正则表达式的地方放上一个正则表达式。在这儿，我非常naive的认为，中文的“三”也是一个数字，正则里的 &#8220;\d&#8221; 应该可以匹配，于是我这么写了</p>
 
-<figure class='code'><figcaption><span>Code </span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 </pre></td><td class='code'><pre><code class='perl'><span class='line'><span class="nv">$week</span> <span class="o">=~</span> <span class="sr">s/周(\d*)/$1/</span><span class="p">;</span>
 </span><span class='line'><span class="nv">$week</span> <span class="o">=</span> <span class="o">&amp;</span><span class="n">find_num</span><span class="p">(</span> <span class="nv">$week</span><span class="p">);</span>
@@ -107,7 +107,7 @@
 <p>于是naive的我naive的认为Perl是如此的强大，居然连中文的数字都能识别。
 但是之后我用其他的代码做实验，无论是Perl 5.8, 5.10 还是5.12都匹配不上，于是我再次naive的认为只有最新的Perl 5.14才可以。直到今天我review了我的代码，用5.14测试了</p>
 
-<figure class='code'><figcaption><span>Code</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='perl'><span class='line'><span class="sr">s/周(\d)/$1/</span>
 </span></code></pre></td></tr></table></div></figure>
 
