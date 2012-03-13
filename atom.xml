@@ -4,7 +4,7 @@
   <title><![CDATA[Blog of Ditsing]]></title>
   <link href="http://ditsing.github.com/atom.xml" rel="self"/>
   <link href="http://ditsing.github.com/"/>
-  <updated>2012-03-12T02:33:40+08:00</updated>
+  <updated>2012-03-13T10:35:22+08:00</updated>
   <id>http://ditsing.github.com/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[双喜临门]]></title>
+    <link href="http://ditsing.github.com/blog/2012/03/12/shuang-xi-lin-men/"/>
+    <updated>2012-03-12T02:40:00+08:00</updated>
+    <id>http://ditsing.github.com/blog/2012/03/12/shuang-xi-lin-men</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Blog开张啦]]></title>
