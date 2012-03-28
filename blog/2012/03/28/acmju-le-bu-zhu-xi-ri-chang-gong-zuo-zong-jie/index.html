@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>jwc2ical小记 - Blog of Ditsing</title>
+  <title>ACM俱乐部主席日常工作总结 - Blog of Ditsing</title>
   <meta name="author" content="ditsing">
 
   
-  <meta name="description" content="谋划了一个学期的jwc2ical项目终于结束了，结果还算不错，有可用的产品，并且成功进行了推广。 jwc2ical是我的第一个有意义的“项目”。做完了收获还是很多的，在这里做个总结。 面对未知的时候，不要想“计划好了再行动”，尽快开始才是王道。例如moodle- &hellip;">
+  <meta name="description" content="看了这个题目，大家一定想说，你是主席吗你就敢写总结？鄙人不才，正是HIT ACM俱乐部现任主席。 HIT ACM俱乐部是计算机学院最有前途的俱乐部，没有之一。ACM俱乐部的主席却一点也不忙。虽然挂着主席的名，但是俱乐部日常的工作我是插不上手的。有我们的富二代金牌帝管理员icek大神在， &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji">
+  <link rel="canonical" href="http://ditsing.github.com/blog/2012/03/28/acmju-le-bu-zhu-xi-ri-chang-gong-zuo-zong-jie">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -68,7 +68,7 @@
   
   <header>
     
-      <h1 class="entry-title">Jwc2ical小记</h1>
+      <h1 class="entry-title">ACM俱乐部主席日常工作总结</h1>
     
     
       <p class="meta">
@@ -84,7 +84,7 @@
   
 
 
-<time datetime="2012-03-26T01:24:00+08:00" pubdate data-updated="true">Mar 26<span>th</span>, 2012</time>
+<time datetime="2012-03-28T13:47:00+08:00" pubdate data-updated="true">Mar 28<span>th</span>, 2012</time>
         
          | <a href="#disqus_thread">Comments</a>
         
@@ -93,47 +93,38 @@
   </header>
 
 
-<div class="entry-content"><p>谋划了一个学期的jwc2ical项目终于结束了，结果还算不错，有可用的产品，并且成功进行了推广。</p>
+<div class="entry-content"><p>看了这个题目，大家一定想说，你是主席吗你就敢写总结？鄙人不才，正是HIT ACM俱乐部现任主席。</p>
 
-<p>jwc2ical是我的第一个有意义的“项目”。做完了收获还是很多的，在这里做个总结。</p>
-
-<ul>
-<li><strong>面对未知的时候，不要想“计划好了再行动”，尽快开始才是王道。</strong>例如moodle-local_jwci2cal里需要用到PHP，但是我从来没用过。寒假里找资料、教程找了很久，也比不上3月份fork一个本地插件一边写一边问雄哥。</li>
-<li><strong>输出调试信息要输出key。</strong>所谓key，就是能帮助我们第一时间确定出错的位置、错误的种类以及引起错误的参数的信息。
-例如，当从数据库里读出来的数据引起问题时，除了输出引起问题的域，最好再加上Primary Key部分。</li>
-<li><strong>永远都不要依赖于全局变量。</strong>用函数返回值、持久化存储、常量等方法代替。全局变量在一个地方写、在另外一个地方读，这总能让我想起CPU设计实验里控制时钟周期以免发生读写冲突的例子。这是很讨厌的一件事情。</li>
-<li><strong>在需要长时间运行的程序里，尽一切可能避免程序崩溃。</strong>
-
-<ul>
-<li>在一切有可能出问题的地方——函数调用，数据库操作，来自用户的输入——判断数据合法性。</li>
-<li>把单个工作的崩溃log下来，继续其他的工作。留下的信息要足够恢复。</li>
-</ul>
-</li>
-<li><strong>要么做到永远不崩溃，要么崩溃了以最快的速度恢复。</strong>为什么要有后半段？因为前半段并不总是可能的。</li>
-<li><strong>考虑在崩溃的情况下整个程序能在多大程度上继续运行。</strong>哪些功能即使程序已经崩溃了也是可以依赖的？最好每个功能都是。</li>
-<li><strong>做每一个假设的时候都要想，如果这个假设不成立怎么办？</strong>
+<p>HIT ACM俱乐部是计算机学院最有前途的俱乐部，没有之一。ACM俱乐部的主席却一点也不忙。虽然挂着主席的名，但是俱乐部日常的工作我是插不上手的。有我们的富二代金牌帝管理员<a href="http://icek.me">icek</a>大神在，俱乐部工作自然井井有条。那主席天天干什么呢？主席的职责有两条：</p>
 
 <ol>
-<li>假设不成立就要换一种方法来处理了。是不是抽象有问题？</li>
-<li>假设不成立就会麻烦很多。提前做好面对麻烦的准备吧。</li>
+<li>给ACM基地修网。网络出问题的时候就是我出现的时候。</li>
+<li>跟计算机学院的行政部门打交道。</li>
 </ol>
-</li>
-<li><strong>Quick and dirty的方法有时候很有效。</strong>适当引入能事半功倍。这是个权衡的问题。</li>
-<li><strong>尽量把做事的函数和说话的函数分开。</strong>能分多开分多开。</li>
-</ul>
 
 
-<p>先写这么多吧。</p>
+<p>第一条自不必说，任何一个网管拉过来都能干的活。</p>
 
-<p>moodle-loca_jwc2ical项目历时18天，大小bug不断。中途根据实际情况做了很多调整，最后的代码无比混乱，当然我是说PHP部分。Sunner老师给了我很多指导和帮助，没有他我写完这个项目一定会死的。项目前期缺乏有效的测试数据，这是麻烦的根源，甚至部署之后还出现了一次崩溃。还好Sunner老师不厌其烦的一遍一遍的部署测试，最终项目才能成功上线。感谢Sunner老师～我还得继续维护这个项目，没有人会愿意接手的。</p>
+<p>第二条嘛，计算机学院虽然办正事的效率一向不高，折腾起人来可非常有一套。单周例会，双周交工作简报，两周发一篇<a href="http://today.hit.edu.cn">新闻</a>。时不时的替各个俱乐部举办活动，替各个俱乐部招新，期末还要根据平时表现给大家评分，真是用心良苦。例会什么的也就算了，我友情出现一下。工作简报嘛，俱乐部每周都办一样的周赛+讲座，交差不多的也行。新闻？不好意思，不陪你玩儿了，today.hit对ACMer一点意义也没有。</p>
 
-<p>最令我骄傲的是项目的Perl部分，也就是分析网页的脚本。除了两个已经预料到的错误假设之外，我没有对这个脚本做任何改动。它完美的实现了与<a href="http://jwc.hit.edu.cn">JWC</a>的交互，处理了大部分的错误和特殊情况，提供了一个很好的封装。这得益于范神@ronaflx，卢大神@luyi0619和雄哥@bearzx在前期给力的测试，感谢三位勇敢地成为脚本的第一批用户。</p>
+<p>说到办活动，每年HIT ACM可谓不遗余力。秋季校赛规模宏大，要提前一个月准备题目、网站、机房、报名、条幅、气球。基本能把整个俱乐部折腾的人仰马翻，尤其是管理员（感谢历届管理员FF，oneplus和icek学长的辛苦工作）。还好每年校赛完了lord都请吃饭，也算不白忙一场。这儿斜刺里杀出来一个社联，突然要替ACM招新。嗯，我们这边新成员都开始训练了，不好意思。</p>
 
-<p>无论如何，这一个项目已经接近尾声了。下一步就要把精力集中到GRE和xfsd上去。开学已经一个月了这两项还没有多大进展，很惭愧。就这样吧。</p>
+<p>所以呢，每次社联开会我少不了要说，“ACM俱乐部不参加招新“，”不参加xx文化节“，&#8221;不参加xxx”。主席只有这点儿事儿可干了。</p>
 
-<p>本来想写一个文艺的结尾的，可是我真的不文艺。</p>
+<p>啊，差点忘了，还有些别的事儿。例如校十佳社团评选，主席要准备材料上台演讲；有时候学院会向我要奖项统计；有时候申请经费要让俱乐部自己填表——我从来没见过计算机学院的经费长啥样；还会有其他不定期的填表任务。</p>
 
-<p>PS：Facebook你敢不敢回个消息过来！要不要投过去简历就石沉大海啊！！！！！</p>
+<p>总结完了，最后发广告，ACM俱乐部招聘下一任主席啦～除了干活，主席还是有福利的：</p>
+
+<ol>
+<li>评奖学金的时候可以加5分哦，5分哦～～关键时刻秒杀其他人的加分哦！</li>
+<li>可以对别人说，我是主席。</li>
+<li>可以偷偷在基地享受不限速带宽。</li>
+</ol>
+
+
+<p>愿意兼职的同学可以联系我，或者留言。先到先得！</p>
+
+<p>PS：俱乐部真的应该加强一下这些日常的统计，多少队伍多少金牌多少银牌。希望未来HOJ能有这样的功能。</p>
 </div>
 
 
@@ -156,12 +147,12 @@
   
 
 
-<time datetime="2012-03-26T01:24:00+08:00" pubdate data-updated="true">Mar 26<span>th</span>, 2012</time>
+<time datetime="2012-03-28T13:47:00+08:00" pubdate data-updated="true">Mar 28<span>th</span>, 2012</time>
       
 
 <span class="categories">
   
-    <a class='category' href='/blog/categories/perl-/'>perl,</a>, <a class='category' href='/blog/categories/php/'>php</a>, <a class='category' href='/blog/categories/projects-/'>projects,</a>
+    <a class='category' href='/blog/categories/life/'>life</a>
   
 </span>
 
@@ -170,7 +161,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji/" data-via="" data-counturl="http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ditsing.github.com/blog/2012/03/28/acmju-le-bu-zhu-xi-ri-chang-gong-zuo-zong-jie/" data-via="" data-counturl="http://ditsing.github.com/blog/2012/03/28/acmju-le-bu-zhu-xi-ri-chang-gong-zuo-zong-jie/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -183,10 +174,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2012/03/13/zhou-ri-da-shi-ji/" title="Previous Post: 周日大事记">&laquo; 周日大事记</a>
+        <a class="basic-alignment left" href="/blog/2012/03/26/jwc2ical-xiao-ji/" title="Previous Post: jwc2ical小记">&laquo; jwc2ical小记</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2012/03/28/acmju-le-bu-zhu-xi-ri-chang-gong-zuo-zong-jie/" title="Next Post: ACM俱乐部主席日常工作总结">ACM俱乐部主席日常工作总结 &raquo;</a>
       
     </p>
   </footer>
@@ -283,8 +272,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji/';
-        var disqus_url = 'http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji/';
+        var disqus_identifier = 'http://ditsing.github.com/blog/2012/03/28/acmju-le-bu-zhu-xi-ri-chang-gong-zuo-zong-jie/';
+        var disqus_url = 'http://ditsing.github.com/blog/2012/03/28/acmju-le-bu-zhu-xi-ri-chang-gong-zuo-zong-jie/';
         var disqus_script = 'embed.js';
       
     (function () {
