@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: PHP | Blog of Ditsing]]></title>
+  <link href="http://ditsing.github.com/blog/categories/php/atom.xml" rel="self"/>
+  <link href="http://ditsing.github.com/"/>
+  <updated>2012-04-25T18:28:29+08:00</updated>
+  <id>http://ditsing.github.com/</id>
+  <author>
+    <name><![CDATA[ditsing]]></name>
+    <email><![CDATA[ditsing@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[jwc2ical小记]]></title>
+    <link href="http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji/"/>
+    <updated>2012-03-26T01:24:00+08:00</updated>
+    <id>http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji</id>
+    <content type="html"><![CDATA[<p>谋划了一个学期的jwc2ical项目终于结束了，结果还算不错，有可用的产品，并且成功进行了推广。</p>
+
+<p>jwc2ical是我的第一个有意义的“项目”。做完了收获还是很多的，在这里做个总结。</p>
+
+<ul>
+<li><strong>面对未知的时候，不要想“计划好了再行动”，尽快开始才是王道。</strong>例如moodle-local_jwci2cal里需要用到PHP，但是我从来没用过。寒假里找资料、教程找了很久，也比不上3月份fork一个本地插件一边写一边问雄哥。</li>
+<li><strong>输出调试信息要输出key。</strong>所谓key，就是能帮助我们第一时间确定出错的位置、错误的种类以及引起错误的参数的信息。
+例如，当从数据库里读出来的数据引起问题时，除了输出引起问题的域，最好再加上Primary Key部分。</li>
+<li><strong>永远都不要依赖于全局变量。</strong>用函数返回值、持久化存储、常量等方法代替。全局变量在一个地方写、在另外一个地方读，这总能让我想起CPU设计实验里控制时钟周期以免发生读写冲突的例子。这是很讨厌的一件事情。</li>
+<li><strong>在需要长时间运行的程序里，尽一切可能避免程序崩溃。</strong>
+
+<ul>
+<li>在一切有可能出问题的地方——函数调用，数据库操作，来自用户的输入——判断数据合法性。</li>
+<li>把单个工作的崩溃log下来，继续其他的工作。留下的信息要足够恢复。</li>
+</ul>
+</li>
+<li><strong>要么做到永远不崩溃，要么崩溃了以最快的速度恢复。</strong>为什么要有后半段？因为前半段并不总是可能的。</li>
+<li><strong>考虑在崩溃的情况下整个程序能在多大程度上继续运行。</strong>哪些功能即使程序已经崩溃了也是可以依赖的？最好每个功能都是。</li>
+<li><strong>做每一个假设的时候都要想，如果这个假设不成立怎么办？</strong>
+
+<ol>
+<li>假设不成立就要换一种方法来处理了。是不是抽象有问题？</li>
+<li>假设不成立就会麻烦很多。提前做好面对麻烦的准备吧。</li>
+</ol>
+</li>
+<li><strong>Quick and dirty的方法有时候很有效。</strong>适当引入能事半功倍。这是个权衡的问题。</li>
+<li><strong>尽量把做事的函数和说话的函数分开。</strong>能分多开分多开。</li>
+</ul>
+
+
+<p>先写这么多吧。</p>
+
+<p>moodle-loca_jwc2ical项目历时18天，大小bug不断。中途根据实际情况做了很多调整，最后的代码无比混乱，当然我是说PHP部分。Sunner老师给了我很多指导和帮助，没有他我写完这个项目一定会死的。项目前期缺乏有效的测试数据，这是麻烦的根源，甚至部署之后还出现了一次崩溃。还好Sunner老师不厌其烦的一遍一遍的部署测试，最终项目才能成功上线。感谢Sunner老师～我还得继续维护这个项目，没有人会愿意接手的。</p>
+
+<p>最令我骄傲的是项目的Perl部分，也就是分析网页的脚本。除了两个已经预料到的错误假设之外，我没有对这个脚本做任何改动。它完美的实现了与<a href="http://jwc.hit.edu.cn">JWC</a>的交互，处理了大部分的错误和特殊情况，提供了一个很好的封装。这得益于范神@ronaflx，卢大神@luyi0619和雄哥@bearzx在前期给力的测试，感谢三位勇敢地成为脚本的第一批用户。</p>
+
+<p>无论如何，这一个项目已经接近尾声了。下一步就要把精力集中到GRE和xfsd上去。开学已经一个月了这两项还没有多大进展，很惭愧。就这样吧。</p>
+
+<p>本来想写一个文艺的结尾的，可是我真的不文艺。</p>
+
+<p>PS：Facebook你敢不敢回个消息过来！要不要投过去简历就石沉大海啊！！！！！</p>
+]]></content>
+  </entry>
+  
+</feed>
