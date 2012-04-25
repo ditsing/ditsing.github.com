@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: php | Blog of Ditsing]]></title>
+  <title><![CDATA[Category: PHP | Blog of Ditsing]]></title>
   <link href="http://ditsing.github.com/blog/categories/php/atom.xml" rel="self"/>
   <link href="http://ditsing.github.com/"/>
-  <updated>2012-04-25T18:22:42+08:00</updated>
+  <updated>2012-04-25T18:28:29+08:00</updated>
   <id>http://ditsing.github.com/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
