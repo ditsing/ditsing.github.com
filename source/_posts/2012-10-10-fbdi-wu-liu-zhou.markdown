@@ -20,6 +20,7 @@ categories: fb.dairy life
 -------
 
 以下依旧是流水账，路人切记一定要绕过！！
+<!-- more -->
 
 周一 改代码呀改代码。第一次接触到unit test，觉得很新鲜。其实不过如此。依旧在折腾前台的表，彻底明白了HTML里class，name，value，id四个属性的用途。
 
