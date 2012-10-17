@@ -10,4 +10,6 @@ source.old
 source/_stash
 source/stylesheets/screen.css
 vendor
+verdor
+*~
 node_modules
