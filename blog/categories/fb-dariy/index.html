@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>记一件naive的事儿 - Blog of Ditsing</title>
+  <title>Category: fb.dariy - Blog of Ditsing</title>
   <meta name="author" content="ditsing">
 
   
-  <meta name="description" content="最近在写一个关于课程表的程序，跟中文正则表达式打了很多交道。比如一次我需要把“周三”中的那个“三”转成数字。作为一个菜鸟Perler，我在一切可以用到正则表达式的地方放上一个正则表达式。在这儿，我非常naive的认为，中文的“三”也是一个数字，正则里的 &#8220;\d&#8221; &hellip;">
+  <meta name="description" content="Category: fb.dariy">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://ditsing.github.com/blog/2012/03/02/ji-yi-jian-naivede-shi-er/">
+  <link rel="canonical" href="http://ditsing.github.comblog/categories/fb-dariy/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -76,118 +76,36 @@
   <div id="main">
     <div id="content">
       <div>
-<article class="hentry" role="article">
+<article role="article">
   
   <header>
-    
-      <h1 class="entry-title">记一件naive的事儿</h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-02T19:24:00-08:00" pubdate data-updated="true">Mar 2<span>nd</span>, 2012</time>
-        
-         | <a href="#disqus_thread">Comments</a>
-        
-      </p>
+    <h1 class="entry-title">Category: fb.dariy</h1>
     
   </header>
-
-
-<div class="entry-content"><p>最近在写一个关于课程表的程序，跟中文正则表达式打了很多交道。<!-- more -->比如一次我需要把“周三”中的那个“三”转成数字。作为一个菜鸟Perler，我在一切可以用到正则表达式的地方放上一个正则表达式。在这儿，我非常naive的认为，中文的“三”也是一个数字，正则里的 &#8220;\d&#8221; 应该可以匹配，于是我这么写了</p>
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class='perl'><span class='line'><span class="nv">$week</span> <span class="o">=~</span> <span class="sr">s/周(\d*)/$1/</span><span class="p">;</span>
-</span><span class='line'><span class="nv">$week</span> <span class="o">=</span> <span class="o">&amp;</span><span class="n">find_num</span><span class="p">(</span> <span class="nv">$week</span><span class="p">);</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>神奇的是它居然达到了我的目的，最后我确实得到了数字3。 find_num 是个无辜的函数，它负责把“三”转成3。</p>
-
-<p>于是naive的我naive的认为Perl是如此的强大，居然连中文的数字都能识别。
-但是之后我用其他的代码做实验，无论是Perl 5.8, 5.10 还是5.12都匹配不上，于是我再次naive的认为只有最新的Perl 5.14才可以。直到今天我review了我的代码，用5.14测试了</p>
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='perl'><span class='line'><span class="sr">s/周(\d)/$1/</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>也匹配不上！我这才突然发现了其中的问题，相信我的读者们也都看出来了。</p>
-
-<p>不过话说回来，Perl的正则还是很强大的，真的是得心应手。所以我决定，就把这个bug永久留在我的代码里了。</p>
-</div>
-
-
-  <footer>
-    <p class="meta">
-      
   
-
-<span class="byline author vcard">Posted by <span class="fn">ditsing</span></span>
-
-      
-
-
-
-
-
+  <div id="blog-archives" class="category">
 
 
 
   
+  <h2>2012</h2>
+
+<article>
+  
+<h1><a href="/blog/2012/10/21/yi-xie-xiang-fa-%3Afbqi-ba-zhou/">一些想法：FB七八周</a></h1>
+<time datetime="2012-10-21T22:05:00-07:00" pubdate><span class='month'>Oct</span> <span class='day'>21</span> <span class='year'>2012</span></time>
+
+<footer>
+  <span class="categories">posted in <a class='category' href='/blog/categories/fb-dariy/'>fb.dariy</a>, <a class='category' href='/blog/categories/life/'>life</a></span>
+</footer>
 
 
-<time datetime="2012-03-02T19:24:00-08:00" pubdate data-updated="true">Mar 2<span>nd</span>, 2012</time>
-      
-
-<span class="categories">
-  
-    <a class='category' href='/blog/categories/perl/'>Perl</a>, <a class='category' href='/blog/categories/正则表达式/'>正则表达式</a>, <a class='category' href='/blog/categories/点滴/'>点滴</a>
-  
-</span>
-
-
-    </p>
-    
-      <div class="sharing">
-  
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://ditsing.github.com/blog/2012/03/02/ji-yi-jian-naivede-shi-er/" data-via="" data-counturl="http://ditsing.github.com/blog/2012/03/02/ji-yi-jian-naivede-shi-er/" >Tweet</a>
-  
-  
-  <div class="g-plusone" data-size="medium"></div>
-  
-  
-    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
-  
-</div>
-
-    
-    <p class="meta">
-      
-      
-        <a class="basic-alignment right" href="/blog/2012/03/02/blogkai-zhang-la/" title="Next Post: Blog开张啦">Blog开张啦 &raquo;</a>
-      
-    </p>
-  </footer>
 </article>
 
-  <section>
-    <h1>Comments</h1>
-    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
-  </section>
+
+  
+</article>
 
 </div>
 
@@ -279,10 +197,7 @@
       var disqus_shortname = 'ditsing';
       
         
-        // var disqus_developer = 1;
-        var disqus_identifier = 'http://ditsing.github.com/blog/2012/03/02/ji-yi-jian-naivede-shi-er/';
-        var disqus_url = 'http://ditsing.github.com/blog/2012/03/02/ji-yi-jian-naivede-shi-er/';
-        var disqus_script = 'embed.js';
+        var disqus_script = 'count.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
