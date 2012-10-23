@@ -31,7 +31,7 @@ categories: fb.dariy life
 
 其实我现在还在纠结中，很纠结。这种事情吧，除非做了决定，否则肯定不知道哪个是更好的选择。
 
-列一下想做的事情：
+列一下想做的事情（已经copy至[Todo List](/todo-list/)）：
 
 1. 把具体数学和组合数学看完
 2. 在Coursea上一门Compiler的课，自己写一个Compiler
