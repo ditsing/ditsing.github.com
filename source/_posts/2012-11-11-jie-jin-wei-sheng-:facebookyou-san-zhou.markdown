@@ -3,7 +3,7 @@ layout: post
 title: "接近尾声：Facebook又三周"
 date: 2012-11-11 21:57
 comments: true
-categories: fb.diary, life
+categories: fb.diary life
 ---
 
 第九，第十，第十一周。今晚是我本周唯一一个过了九点还不困的晚上。
