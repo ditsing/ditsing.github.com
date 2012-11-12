@@ -3,7 +3,7 @@ layout: post
 title: "FB第五六周"
 date: 2012-10-10 22:48
 comments: true
-categories: fb.dairy life
+categories: fb.diary life
 ---
 
 上次写日志是17天之前了，懒了。

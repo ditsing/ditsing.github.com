@@ -3,7 +3,7 @@ layout: post
 title: "FB第二周——连载"
 date: 2012-09-11 22:59
 comments: true
-categories: life fb.dairy
+categories: life fb.diary
 ---
 
 写文章的时候才发现今天是个特殊的日子。入乡随俗，为不幸的人们哀悼吧。

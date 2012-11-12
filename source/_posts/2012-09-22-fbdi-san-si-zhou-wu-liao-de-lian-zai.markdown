@@ -3,7 +3,7 @@ layout: post
 title: "FB第三四周——无聊的连载"
 date: 2012-09-22 22:44
 comments: true
-categories: fb.dairy life
+categories: fb.diary life
 ---
 
 今天下午去超市疯狂购物，花了三十多美元。爽！

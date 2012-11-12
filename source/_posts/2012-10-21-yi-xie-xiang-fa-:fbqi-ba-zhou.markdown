@@ -3,7 +3,7 @@ layout: post
 title: "一些想法：FB七八周"
 date: 2012-10-21 22:05
 comments: true
-categories: fb.dariy life
+categories: fb.diary life
 ---
 
 首先恭喜HIT_Encore拿下今年第一枚金牌，我死也瞑目了。今年注定是ACM@HIT丰收的一年，加油！

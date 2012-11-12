@@ -3,7 +3,7 @@ layout: post
 title: "FB第一周"
 date: 2012-09-01 12:44
 comments: true
-categories: life fb.dairy
+categories: life fb.diary
 ---
 
 又是一篇跟技术毫无关系的博客，技术控们可以直接绕过了。
