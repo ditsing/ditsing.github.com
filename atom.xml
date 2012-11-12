@@ -4,7 +4,7 @@
   <title><![CDATA[Blog of Ditsing]]></title>
   <link href="http://ditsing.github.com/atom.xml" rel="self"/>
   <link href="http://ditsing.github.com/"/>
-  <updated>2012-10-23T21:37:34-07:00</updated>
+  <updated>2012-11-11T22:44:46-08:00</updated>
   <id>http://ditsing.github.com/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[接近尾声：Facebook又三周]]></title>
+    <link href="http://ditsing.github.com/blog/2012/11/11/jie-jin-wei-sheng-%3Afacebookyou-san-zhou/"/>
+    <updated>2012-11-11T21:57:00-08:00</updated>
+    <id>http://ditsing.github.com/blog/2012/11/11/jie-jin-wei-sheng-:facebookyou-san-zhou</id>
+    <content type="html"><![CDATA[<p>第九，第十，第十一周。今晚是我本周唯一一个过了九点还不困的晚上。</p>
+
+<ol>
+<li>第九周本来是应该开始新工作的，结果却一直在对旧工作修修补补。新工作进展不错，雏形已经出来了。</li>
+<li>第十周没有什么实质性的进展，尝试做了一个工具。实验发现工具的效果不太稳定，跟预想有很大误差。Mentor认为我没办法处理这个问题，于是让我先放下了。真正扫尾的时间到了。</li>
+<li>第十一周扫尾，完成我一直在挂念的任务——重构那个巨丑无比的旧代码。为了搞清楚它的逻辑我真是脑袋都大了。让我重新开发估计也就一天就能搞定。事实上我确实重新开发了几乎所有重要的部分。800余行代码里连续没有改动的行数最大值小于13。</li>
+</ol>
+
+
+<p>这次没有心情再写流水账了。之前写是因为觉得这段时间很重要，发生的每件事情都要记下来。现在觉得不一样了，没有什么事情很重要。认真去生活，认真去思考，认真去品味。这就够了，犯不着大动干戈。
+临近离开反而心如止水，没有思前想后的犹豫，没有患得患失的顾虑。在Facebook可以为未来奋斗，回到哈尔滨的也可以。</p>
+
+<p>只可惜&#8230;</p>
+
+<p>必须说，这将是一段珍贵的记忆。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[一些想法：FB七八周]]></title>
