@@ -4,7 +4,7 @@ title: "Todo List"
 date: 2012-10-22 23:24
 comments: true
 sharing: false
-footer: true
+footer: false
 ---
 
 1. 把具体数学和组合数学看完
