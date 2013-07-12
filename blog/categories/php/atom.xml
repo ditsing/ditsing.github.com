@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: PHP | Blog of Ditsing]]></title>
-  <link href="http://ditsing.github.io/blog/categories/php/atom.xml" rel="self"/>
-  <link href="http://ditsing.github.io/"/>
-  <updated>2013-07-12T21:18:52+08:00</updated>
-  <id>http://ditsing.github.io/</id>
+  <link href="http://ditsing.github.com/blog/categories/php/atom.xml" rel="self"/>
+  <link href="http://ditsing.github.com/"/>
+  <updated>2013-07-12T21:38:53+08:00</updated>
+  <id>http://ditsing.github.com/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
     <email><![CDATA[ditsing@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[jwc2ical小记]]></title>
-    <link href="http://ditsing.github.io/blog/2012/03/26/jwc2ical-xiao-ji/"/>
+    <link href="http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji/"/>
     <updated>2012-03-26T01:24:00+08:00</updated>
-    <id>http://ditsing.github.io/blog/2012/03/26/jwc2ical-xiao-ji</id>
+    <id>http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji</id>
     <content type="html"><![CDATA[<p>谋划了一个学期的jwc2ical项目终于结束了，结果还算不错，有可用的产品，并且成功进行了推广。</p>
 
 <p>jwc2ical是我的第一个有意义的“项目”。做完了收获还是很多的，在这里做个总结。</p>
