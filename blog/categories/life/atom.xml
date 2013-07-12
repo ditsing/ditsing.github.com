@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: life | Blog of Ditsing]]></title>
-  <link href="http://ditsing.github.com/blog/categories/life/atom.xml" rel="self"/>
-  <link href="http://ditsing.github.com/"/>
-  <updated>2012-11-12T10:08:26-08:00</updated>
-  <id>http://ditsing.github.com/</id>
+  <link href="http://ditsing.github.io/blog/categories/life/atom.xml" rel="self"/>
+  <link href="http://ditsing.github.io/"/>
+  <updated>2013-07-12T21:18:52+08:00</updated>
+  <id>http://ditsing.github.io/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
     <email><![CDATA[ditsing@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[接近尾声：Facebook又三周]]></title>
-    <link href="http://ditsing.github.com/blog/2012/11/11/jie-jin-wei-sheng-%3Afacebookyou-san-zhou/"/>
-    <updated>2012-11-11T21:57:00-08:00</updated>
-    <id>http://ditsing.github.com/blog/2012/11/11/jie-jin-wei-sheng-:facebookyou-san-zhou</id>
+    <link href="http://ditsing.github.io/blog/2012/11/11/jie-jin-wei-sheng-%3Afacebookyou-san-zhou/"/>
+    <updated>2012-11-11T21:57:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/11/11/jie-jin-wei-sheng-:facebookyou-san-zhou</id>
     <content type="html"><![CDATA[<p>第九，第十，第十一周。今晚是我本周唯一一个过了九点还不困的晚上。</p>
 
 <ol>
@@ -30,7 +30,7 @@
 <p>这次没有心情再写流水账了。之前写是因为觉得这段时间很重要，发生的每件事情都要记下来。现在觉得不一样了，没有什么事情很重要。认真去生活，认真去思考，认真去品味。这就够了，犯不着大动干戈。
 临近离开反而心如止水，没有思前想后的犹豫，没有患得患失的顾虑。在Facebook可以为未来奋斗，回到哈尔滨的也可以。</p>
 
-<p>只可惜...</p>
+<p>只可惜&hellip;</p>
 
 <p>必须说，这将是一段珍贵的记忆。</p>
 ]]></content>
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[一些想法：FB七八周]]></title>
-    <link href="http://ditsing.github.com/blog/2012/10/21/yi-xie-xiang-fa-%3Afbqi-ba-zhou/"/>
-    <updated>2012-10-21T22:05:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/10/21/yi-xie-xiang-fa-:fbqi-ba-zhou</id>
+    <link href="http://ditsing.github.io/blog/2012/10/21/yi-xie-xiang-fa-%3Afbqi-ba-zhou/"/>
+    <updated>2012-10-21T22:05:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/10/21/yi-xie-xiang-fa-:fbqi-ba-zhou</id>
     <content type="html"><![CDATA[<p>首先恭喜HIT_Encore拿下今年第一枚金牌，我死也瞑目了。今年注定是ACM@HIT丰收的一年，加油！</p>
 
 <p>时间过的真快，在FB的第七第八周也结束了。这两周没有什么remarkable的工作：做幻灯片，修修补补加功能。基本都是在耍小聪明，没什么可以写的。</p>
@@ -90,7 +90,7 @@
 <li>第七周周六：白天上午睡觉了，下午徒步出去走了走，到downtown吃了点东西，看喷泉听街头艺人的音乐。心里很安静。晚上到同事家一起玩儿跟杀人游戏类似的游戏。大家High到两点多。回来的路上跟组织活动的同事大概讨论了一下选校。</li>
 <li>第七周周日：白天上午睡觉了。我发现我周末基本就是在家睡觉。下午去买菜，炒菜，蒸米饭，自己吃的挺happy。幻灯片太不好做了，纠结了很长时间。</li>
 <li>第八周周一：中午跟大小mentor讨论了我的幻灯片，结论：惨不忍睹。他们点评之后我也觉得惨不忍睹。后来小馒头提了一个无比简洁的建议，这才好看了一点。晚上改幻灯片改到很晚。顺手做了点小修补。</li>
-<li>第八周周二：馒头们都是好人呐，说换项目就换项目了。不用再做前端，改做后台一点的东西了。但是我上一周看的代码基本就白看了.....让我交个片段再换也好啊！</li>
+<li>第八周周二：馒头们都是好人呐，说换项目就换项目了。不用再做前端，改做后台一点的东西了。但是我上一周看的代码基本就白看了&hellip;..让我交个片段再换也好啊！</li>
 <li>第八周周三：流程继续，修修补补。接受新项目，开始看手册、换着参数做试验。早上碰到一个之前一起开过会的同事，跟他讨论了下申请学校的问题，他就找导师给了我第一手的建议。</li>
 <li>第八周周四：新项目有进展了，写了个Bash脚本跑跑数据。早上遇到了涛哥，讨论了很多。</li>
 <li>第八周周五：完成了一个半成品，觉得进度很不错。</li>
@@ -112,9 +112,9 @@
   
   <entry>
     <title type="html"><![CDATA[FB第五六周]]></title>
-    <link href="http://ditsing.github.com/blog/2012/10/10/fbdi-wu-liu-zhou/"/>
-    <updated>2012-10-10T22:48:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/10/10/fbdi-wu-liu-zhou</id>
+    <link href="http://ditsing.github.io/blog/2012/10/10/fbdi-wu-liu-zhou/"/>
+    <updated>2012-10-10T22:48:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/10/10/fbdi-wu-liu-zhou</id>
     <content type="html"><![CDATA[<p>上次写日志是17天之前了，懒了。
 这两周生活丰富了很多，公司组织了不少活动，自己也认识了不少PhD朋友。BS跟PhD果然不是一个等级的，感觉大家想的东西差的太多。</p>
 
@@ -177,9 +177,9 @@
   
   <entry>
     <title type="html"><![CDATA[FB第三四周——无聊的连载]]></title>
-    <link href="http://ditsing.github.com/blog/2012/09/22/fbdi-san-si-zhou-wu-liao-de-lian-zai/"/>
-    <updated>2012-09-22T22:44:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/09/22/fbdi-san-si-zhou-wu-liao-de-lian-zai</id>
+    <link href="http://ditsing.github.io/blog/2012/09/22/fbdi-san-si-zhou-wu-liao-de-lian-zai/"/>
+    <updated>2012-09-22T22:44:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/09/22/fbdi-san-si-zhou-wu-liao-de-lian-zai</id>
     <content type="html"><![CDATA[<p>今天下午去超市疯狂购物，花了三十多美元。爽！</p>
 
 <p>两周并作一周写吧。让我好好回忆回忆这两周都做什么了。
@@ -222,9 +222,9 @@
   
   <entry>
     <title type="html"><![CDATA[FB第二周——连载]]></title>
-    <link href="http://ditsing.github.com/blog/2012/09/11/fbdi-er-zhou-lian-zai/"/>
-    <updated>2012-09-11T22:59:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/09/11/fbdi-er-zhou-lian-zai</id>
+    <link href="http://ditsing.github.io/blog/2012/09/11/fbdi-er-zhou-lian-zai/"/>
+    <updated>2012-09-11T22:59:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/09/11/fbdi-er-zhou-lian-zai</id>
     <content type="html"><![CDATA[<p>写文章的时候才发现今天是个特殊的日子。入乡随俗，为不幸的人们哀悼吧。</p>
 
 <p>好吧这个连载真的很无聊。这次就不要一天一天的写了，来点意识流的。</p>

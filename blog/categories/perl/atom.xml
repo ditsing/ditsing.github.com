@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Perl | Blog of Ditsing]]></title>
-  <link href="http://ditsing.github.com/blog/categories/perl/atom.xml" rel="self"/>
-  <link href="http://ditsing.github.com/"/>
-  <updated>2012-11-12T10:08:26-08:00</updated>
-  <id>http://ditsing.github.com/</id>
+  <link href="http://ditsing.github.io/blog/categories/perl/atom.xml" rel="self"/>
+  <link href="http://ditsing.github.io/"/>
+  <updated>2013-07-12T21:18:52+08:00</updated>
+  <id>http://ditsing.github.io/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
     <email><![CDATA[ditsing@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[jwc2ical小记]]></title>
-    <link href="http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji/"/>
-    <updated>2012-03-26T01:24:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji</id>
+    <link href="http://ditsing.github.io/blog/2012/03/26/jwc2ical-xiao-ji/"/>
+    <updated>2012-03-26T01:24:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/03/26/jwc2ical-xiao-ji</id>
     <content type="html"><![CDATA[<p>谋划了一个学期的jwc2ical项目终于结束了，结果还算不错，有可用的产品，并且成功进行了推广。</p>
 
 <p>jwc2ical是我的第一个有意义的“项目”。做完了收获还是很多的，在这里做个总结。</p>
@@ -64,10 +64,10 @@
   
   <entry>
     <title type="html"><![CDATA[记一件naive的事儿]]></title>
-    <link href="http://ditsing.github.com/blog/2012/03/02/ji-yi-jian-naivede-shi-er/"/>
-    <updated>2012-03-02T19:24:00-08:00</updated>
-    <id>http://ditsing.github.com/blog/2012/03/02/ji-yi-jian-naivede-shi-er</id>
-    <content type="html"><![CDATA[<p>最近在写一个关于课程表的程序，跟中文正则表达式打了很多交道。<!-- more -->比如一次我需要把“周三”中的那个“三”转成数字。作为一个菜鸟Perler，我在一切可以用到正则表达式的地方放上一个正则表达式。在这儿，我非常naive的认为，中文的“三”也是一个数字，正则里的 "\d" 应该可以匹配，于是我这么写了
+    <link href="http://ditsing.github.io/blog/2012/03/02/ji-yi-jian-naivede-shi-er/"/>
+    <updated>2012-03-02T19:24:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/03/02/ji-yi-jian-naivede-shi-er</id>
+    <content type="html"><![CDATA[<p>最近在写一个关于课程表的程序，跟中文正则表达式打了很多交道。<!-- more -->比如一次我需要把“周三”中的那个“三”转成数字。作为一个菜鸟Perler，我在一切可以用到正则表达式的地方放上一个正则表达式。在这儿，我非常naive的认为，中文的“三”也是一个数字，正则里的 &ldquo;\d&rdquo; 应该可以匹配，于是我这么写了
 <code>perl
 $week =~ s/周(\d*)/$1/;
 $week = &amp;find_num( $week);

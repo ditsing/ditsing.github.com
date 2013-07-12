@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Blog of Ditsing]]></title>
-  <link href="http://ditsing.github.com/atom.xml" rel="self"/>
-  <link href="http://ditsing.github.com/"/>
-  <updated>2012-11-12T10:08:26-08:00</updated>
-  <id>http://ditsing.github.com/</id>
+  <link href="http://ditsing.github.io/atom.xml" rel="self"/>
+  <link href="http://ditsing.github.io/"/>
+  <updated>2013-07-12T21:18:52+08:00</updated>
+  <id>http://ditsing.github.io/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
     <email><![CDATA[ditsing@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[接近尾声：Facebook又三周]]></title>
-    <link href="http://ditsing.github.com/blog/2012/11/11/jie-jin-wei-sheng-%3Afacebookyou-san-zhou/"/>
-    <updated>2012-11-11T21:57:00-08:00</updated>
-    <id>http://ditsing.github.com/blog/2012/11/11/jie-jin-wei-sheng-:facebookyou-san-zhou</id>
+    <link href="http://ditsing.github.io/blog/2012/11/11/jie-jin-wei-sheng-%3Afacebookyou-san-zhou/"/>
+    <updated>2012-11-11T21:57:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/11/11/jie-jin-wei-sheng-:facebookyou-san-zhou</id>
     <content type="html"><![CDATA[<p>第九，第十，第十一周。今晚是我本周唯一一个过了九点还不困的晚上。</p>
 
 <ol>
@@ -30,7 +30,7 @@
 <p>这次没有心情再写流水账了。之前写是因为觉得这段时间很重要，发生的每件事情都要记下来。现在觉得不一样了，没有什么事情很重要。认真去生活，认真去思考，认真去品味。这就够了，犯不着大动干戈。
 临近离开反而心如止水，没有思前想后的犹豫，没有患得患失的顾虑。在Facebook可以为未来奋斗，回到哈尔滨的也可以。</p>
 
-<p>只可惜&#8230;</p>
+<p>只可惜&hellip;</p>
 
 <p>必须说，这将是一段珍贵的记忆。</p>
 ]]></content>
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[一些想法：FB七八周]]></title>
-    <link href="http://ditsing.github.com/blog/2012/10/21/yi-xie-xiang-fa-%3Afbqi-ba-zhou/"/>
-    <updated>2012-10-21T22:05:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/10/21/yi-xie-xiang-fa-:fbqi-ba-zhou</id>
+    <link href="http://ditsing.github.io/blog/2012/10/21/yi-xie-xiang-fa-%3Afbqi-ba-zhou/"/>
+    <updated>2012-10-21T22:05:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/10/21/yi-xie-xiang-fa-:fbqi-ba-zhou</id>
     <content type="html"><![CDATA[<p>首先恭喜HIT_Encore拿下今年第一枚金牌，我死也瞑目了。今年注定是ACM@HIT丰收的一年，加油！</p>
 
 <p>时间过的真快，在FB的第七第八周也结束了。这两周没有什么remarkable的工作：做幻灯片，修修补补加功能。基本都是在耍小聪明，没什么可以写的。</p>
@@ -66,7 +66,7 @@
 
 <p>其实我现在还在纠结中，很纠结。这种事情吧，除非做了决定，否则肯定不知道哪个是更好的选择。</p>
 
-<p>列一下想做的事情（已经copy至<a href="http://ditsing.github.com/todo-list/">Todo List</a>）：</p>
+<p>列一下想做的事情（已经copy至<a href="http://ditsing.github.io/todo-list/">Todo List</a>）：</p>
 
 <ol>
 <li>把具体数学和组合数学看完</li>
@@ -90,7 +90,7 @@
 <li>第七周周六：白天上午睡觉了，下午徒步出去走了走，到downtown吃了点东西，看喷泉听街头艺人的音乐。心里很安静。晚上到同事家一起玩儿跟杀人游戏类似的游戏。大家High到两点多。回来的路上跟组织活动的同事大概讨论了一下选校。</li>
 <li>第七周周日：白天上午睡觉了。我发现我周末基本就是在家睡觉。下午去买菜，炒菜，蒸米饭，自己吃的挺happy。幻灯片太不好做了，纠结了很长时间。</li>
 <li>第八周周一：中午跟大小mentor讨论了我的幻灯片，结论：惨不忍睹。他们点评之后我也觉得惨不忍睹。后来小馒头提了一个无比简洁的建议，这才好看了一点。晚上改幻灯片改到很晚。顺手做了点小修补。</li>
-<li>第八周周二：馒头们都是好人呐，说换项目就换项目了。不用再做前端，改做后台一点的东西了。但是我上一周看的代码基本就白看了&#8230;..让我交个片段再换也好啊！</li>
+<li>第八周周二：馒头们都是好人呐，说换项目就换项目了。不用再做前端，改做后台一点的东西了。但是我上一周看的代码基本就白看了&hellip;..让我交个片段再换也好啊！</li>
 <li>第八周周三：流程继续，修修补补。接受新项目，开始看手册、换着参数做试验。早上碰到一个之前一起开过会的同事，跟他讨论了下申请学校的问题，他就找导师给了我第一手的建议。</li>
 <li>第八周周四：新项目有进展了，写了个Bash脚本跑跑数据。早上遇到了涛哥，讨论了很多。</li>
 <li>第八周周五：完成了一个半成品，觉得进度很不错。</li>
@@ -112,9 +112,9 @@
   
   <entry>
     <title type="html"><![CDATA[FB第五六周]]></title>
-    <link href="http://ditsing.github.com/blog/2012/10/10/fbdi-wu-liu-zhou/"/>
-    <updated>2012-10-10T22:48:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/10/10/fbdi-wu-liu-zhou</id>
+    <link href="http://ditsing.github.io/blog/2012/10/10/fbdi-wu-liu-zhou/"/>
+    <updated>2012-10-10T22:48:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/10/10/fbdi-wu-liu-zhou</id>
     <content type="html"><![CDATA[<p>上次写日志是17天之前了，懒了。
 这两周生活丰富了很多，公司组织了不少活动，自己也认识了不少PhD朋友。BS跟PhD果然不是一个等级的，感觉大家想的东西差的太多。</p>
 
@@ -177,9 +177,9 @@
   
   <entry>
     <title type="html"><![CDATA[FB第三四周——无聊的连载]]></title>
-    <link href="http://ditsing.github.com/blog/2012/09/22/fbdi-san-si-zhou-wu-liao-de-lian-zai/"/>
-    <updated>2012-09-22T22:44:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/09/22/fbdi-san-si-zhou-wu-liao-de-lian-zai</id>
+    <link href="http://ditsing.github.io/blog/2012/09/22/fbdi-san-si-zhou-wu-liao-de-lian-zai/"/>
+    <updated>2012-09-22T22:44:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/09/22/fbdi-san-si-zhou-wu-liao-de-lian-zai</id>
     <content type="html"><![CDATA[<p>今天下午去超市疯狂购物，花了三十多美元。爽！</p>
 
 <p>两周并作一周写吧。让我好好回忆回忆这两周都做什么了。
@@ -222,9 +222,9 @@
   
   <entry>
     <title type="html"><![CDATA[FB第二周——连载]]></title>
-    <link href="http://ditsing.github.com/blog/2012/09/11/fbdi-er-zhou-lian-zai/"/>
-    <updated>2012-09-11T22:59:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/09/11/fbdi-er-zhou-lian-zai</id>
+    <link href="http://ditsing.github.io/blog/2012/09/11/fbdi-er-zhou-lian-zai/"/>
+    <updated>2012-09-11T22:59:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/09/11/fbdi-er-zhou-lian-zai</id>
     <content type="html"><![CDATA[<p>写文章的时候才发现今天是个特殊的日子。入乡随俗，为不幸的人们哀悼吧。</p>
 
 <p>好吧这个连载真的很无聊。这次就不要一天一天的写了，来点意识流的。</p>
@@ -251,12 +251,12 @@
   
   <entry>
     <title type="html"><![CDATA[FB第一周]]></title>
-    <link href="http://ditsing.github.com/blog/2012/09/01/fbdi-yi-zhou/"/>
-    <updated>2012-09-01T12:44:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/09/01/fbdi-yi-zhou</id>
+    <link href="http://ditsing.github.io/blog/2012/09/01/fbdi-yi-zhou/"/>
+    <updated>2012-09-01T12:44:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/09/01/fbdi-yi-zhou</id>
     <content type="html"><![CDATA[<p>又是一篇跟技术毫无关系的博客，技术控们可以直接绕过了。</p>
 
-<p>八月二十五日十点我坐飞机从郑州出发，八月二十五日十一点到达旧金山，飞了足足十六个小时。海关什么的没有传说中的那么吓人，问了一句话就放行了。出关的时候遇到一位学油画的姐姐，都已经工作了，又突然想来旧金山接着深造。当时觉得这个姐姐很面熟，后来才想起来，真的好像好像陈蓓学姐啊（嘘&#8230;&#8230;..）。</p>
+<p>八月二十五日十点我坐飞机从郑州出发，八月二十五日十一点到达旧金山，飞了足足十六个小时。海关什么的没有传说中的那么吓人，问了一句话就放行了。出关的时候遇到一位学油画的姐姐，都已经工作了，又突然想来旧金山接着深造。当时觉得这个姐姐很面熟，后来才想起来，真的好像好像陈蓓学姐啊（嘘&hellip;&hellip;..）。</p>
 
 <p>下一步是坐地铁，花了一个小时换开零钱，买了票走进车站。火车马上就要开了，身后一位黑人大姐冲过来问我说要去哪儿，我说“Millbrea”，她拉着我就上了火车，然后指着地图跟我说，如果你想去那儿，你得这样，到这儿下车，然后换反方向坐回来，坐两站，两站就够了。生怕我听不懂重复了好多好多遍。下飞机就见识到了米国人民的热情，我的心情突然好了起来。然后是转车，再加上四十分钟的步行，我找到了公寓，收拾一下倒头就睡。晚上睡醒了我发现最近的超市在4公里外。饿啊，还是步行去采购了点看上去能吃的东西。</p>
 
@@ -286,10 +286,10 @@
   
   <entry>
     <title type="html"><![CDATA[Google面试]]></title>
-    <link href="http://ditsing.github.com/blog/2012/08/19/googlemian-shi/"/>
-    <updated>2012-08-19T22:33:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/08/19/googlemian-shi</id>
-    <content type="html"><![CDATA[<p>两个星期之前的一个周五下午，我正在家里寂寞的学着JS，一封突然到来的邮件打破了我宁静的生活——&#8221;Greeting from Google!&#8221;。眼看明年的工作还没着落，我欣然接受了邮件里的面试邀请。跟一个Google中国的HR用英文发邮件是件很奇怪的事儿，不过HR很给力，我的面试日期很快就定下来了。</p>
+    <link href="http://ditsing.github.io/blog/2012/08/19/googlemian-shi/"/>
+    <updated>2012-08-19T22:33:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/08/19/googlemian-shi</id>
+    <content type="html"><![CDATA[<p>两个星期之前的一个周五下午，我正在家里寂寞的学着JS，一封突然到来的邮件打破了我宁静的生活——&#8221;Greeting from Google!&ldquo;。眼看明年的工作还没着落，我欣然接受了邮件里的面试邀请。跟一个Google中国的HR用英文发邮件是件很奇怪的事儿，不过HR很给力，我的面试日期很快就定下来了。</p>
 
 <p>Google面试的风格跟我面的其他公司很不一样，每次都会要求自我介绍——就是介绍自己的项目。各位有志于Google的童鞋最好先准备一下。顺便提一句，我每次说的项目都不一样哦。</p>
 
@@ -299,7 +299,7 @@
 
 <p>我的第一反应当然是排序了。面试官问有没有更好的解法，经过他的提示我想到了Hash。但是在估计复杂度的时候，面试官坚决不同意我“可以认为Hash中的冲突很少”的看法。所以我得到了<code>O(N^2)</code>的复杂度。事后我一想，不能认为Hash冲突很少我还用个毛Hash 啊！面试完的那个晚上我没有睡着，脑子里全是这个问题，但是没有找到更好的方法。请问各路大神，这题有没有更优的解法？</p>
 
-<p>二面同样给我留下了深刻的印象。自我介绍，blablabla。面试官出的第一题是从一个数字串中找到最长的递增子串。很显然是<code>O(N)</code>的对吧，面试官问我有没有更优的。我嗯啊呀哈了五分钟之后，面试官说，如果要求递增的差为1，有没有更优的方法？我&#8230;.扯了一个没有用的方法给他。第二题是二合一，首先面试官要求我求出一个线段集合里相交的线段。我先搞了一个naive的线段合并，可以判断出某线段是否和别的线段相交。之后面试官增加了要求：</p>
+<p>二面同样给我留下了深刻的印象。自我介绍，blablabla。面试官出的第一题是从一个数字串中找到最长的递增子串。很显然是<code>O(N)</code>的对吧，面试官问我有没有更优的。我嗯啊呀哈了五分钟之后，面试官说，如果要求递增的差为1，有没有更优的方法？我&hellip;.扯了一个没有用的方法给他。第二题是二合一，首先面试官要求我求出一个线段集合里相交的线段。我先搞了一个naive的线段合并，可以判断出某线段是否和别的线段相交。之后面试官增加了要求：</p>
 
 <blockquote><p> 输出线段集合中的相交线段的子集，如果线段<code>A, B, C, D</code>中，<code>A, B, D</code>两两相交，<code>B</code>和<code>C</code>相交，<code>A</code>和<code>C</code>不相交，输出集合<code>{A B D}</code>和<code>{B C}</code>。</p></blockquote>
 
@@ -319,9 +319,9 @@
   
   <entry>
     <title type="html"><![CDATA[松一口气]]></title>
-    <link href="http://ditsing.github.com/blog/2012/07/14/song-yi-kou-qi/"/>
-    <updated>2012-07-14T20:40:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/07/14/song-yi-kou-qi</id>
+    <link href="http://ditsing.github.io/blog/2012/07/14/song-yi-kou-qi/"/>
+    <updated>2012-07-14T20:40:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/07/14/song-yi-kou-qi</id>
     <content type="html"><![CDATA[<p>相比@bearzx和@luyi0619，我对自己的博客可以说是非常疏于管理了。转眼间又一个月过去了，我还是什么都没写。考完GRE我就彻底的放松了，一边心里想着“这说不定是我大学时代最后的几门课了”，一边堂而皇之的逃掉。唯一一门放在心上的课是软开三。疯了一样的做了两周，成果还是有点不尽如人意。还好我还有很多时间，课程结束了也可以接着做。虎头蛇尾什么的最讨厌了，我一定要把XFS这个项目做完！</p>
 
 <p>7月1日这个神圣的日子之后，我就又忙碌了起来。忙什么呢？准备申请签证要的各种材料。材料总的来说有三类，分别是米国方面的表，学校的成绩单和注册证明，家里需要开的财产证明（其实根本没有人看）。这又少不了一通邮件电话，以及往学校的教务处跑。在这里我不得不吐嘈一下学校了，我在学校开了一份英文注册证明，一份英文成绩单，还有一份六级的成绩证明，办的是加急业务，学校收了我140块钱。其中竟然包括30块钱的成绩单的翻译费，理由是要把成绩单上所有课程名字翻译成英文——难道学校会单独翻译每个人的成绩单上的每一个课程名吗？这就是立志要建世界一流大学的工大的做派。</p>
@@ -340,12 +340,12 @@
   
   <entry>
     <title type="html"><![CDATA[临时小记]]></title>
-    <link href="http://ditsing.github.com/blog/2012/06/18/lin-shi-xiao-ji/"/>
-    <updated>2012-06-18T20:12:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/06/18/lin-shi-xiao-ji</id>
+    <link href="http://ditsing.github.io/blog/2012/06/18/lin-shi-xiao-ji/"/>
+    <updated>2012-06-18T20:12:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/06/18/lin-shi-xiao-ji</id>
     <content type="html"><![CDATA[<p>晚上回完邮件放松的时候，突然听到@icek童鞋说要写博客。爬上来一看我已经有足足两个月没有写一个字了，都对不起我买域名那五十块钱。</p>
 
-<p>那最近两个月都干什么了呢？记得做了很多事，具体有什么忘了，大概是写简历啊面试啊参加比赛啊&#8230;.还有，回邮件啊什么什么的。还好我养成了写note的习惯，可以翻翻自己的note找找过去的足迹。还有G+上的post可以作为佐证。</p>
+<p>那最近两个月都干什么了呢？记得做了很多事，具体有什么忘了，大概是写简历啊面试啊参加比赛啊&hellip;.还有，回邮件啊什么什么的。还好我养成了写note的习惯，可以翻翻自己的note找找过去的足迹。还有G+上的post可以作为佐证。</p>
 
 <p>4月份面完微软之后，我生活的中心有三件事（4月29日的note）：</p>
 
@@ -380,14 +380,14 @@
   
   <entry>
     <title type="html"><![CDATA[微软霸王面归来：怒！]]></title>
-    <link href="http://ditsing.github.com/blog/2012/04/19/wei-ruan-ba-wang-mian-gui-lai-%3Anu-%21/"/>
-    <updated>2012-04-19T21:15:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/04/19/wei-ruan-ba-wang-mian-gui-lai-:nu-!</id>
+    <link href="http://ditsing.github.io/blog/2012/04/19/wei-ruan-ba-wang-mian-gui-lai-%3Anu-%21/"/>
+    <updated>2012-04-19T21:15:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/04/19/wei-ruan-ba-wang-mian-gui-lai-:nu-!</id>
     <content type="html"><![CDATA[<p>今天早上六点我从睡意朦胧中醒来，开始了今天的MS霸王面之旅。</p>
 
 <p>洗漱吃完饭加上各种杂事，我们一行四人到达香格里拉酒店的时候已经是七点半了。卢大神有面试通知，直接去面试了。icek大神，canoe大神和我尝试与HR姐姐沟通争取面试机会。第一被秒的是icek，他被秒的非常欢乐，具体细节不说了。HR姐姐留下了canoe学长和我的简历并承诺替我们找机会，因为面试官都很忙。十点卢大神面完了出来我们才被告知12点之前不会有时间了。于是我们三个就回到了学校。卢大神的情况貌似还不错，我们也都挺高兴的去上了半节编译原理。</p>
 
-<p>中午十二点，我们基本放弃了希望，中午还没有通知肯定就是没戏了。但是我们吃午饭的时候，canoe学长突然接到HR的电话，要我们下午一点到酒店笔试。我们俩二话不说打车直奔香格里拉。拿到面试题之后HR给我俩就近找了桌子坐下写。题目估计是面试官中午的时候抽空出的。看起来不是很难的样子<sup><a href="#PS1">PS1</a></sup>   ：</p>
+<p>中午十二点，我们基本放弃了希望，中午还没有通知肯定就是没戏了。但是我们吃午饭的时候，canoe学长突然接到HR的电话，要我们下午一点到酒店笔试。我们俩二话不说打车直奔香格里拉。拿到面试题之后HR给我俩就近找了桌子坐下写。题目估计是面试官中午的时候抽空出的。看起来不是很难的样子^<a href="#PS1">PS1</a>   ：</p>
 
 <ol>
 <li>合并两个链表（原文：Merge two linked lists.）；</li>
@@ -419,9 +419,9 @@
   
   <entry>
     <title type="html"><![CDATA[ACM俱乐部主席日常工作总结]]></title>
-    <link href="http://ditsing.github.com/blog/2012/03/28/acmju-le-bu-zhu-xi-ri-chang-gong-zuo-zong-jie/"/>
-    <updated>2012-03-28T13:47:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/03/28/acmju-le-bu-zhu-xi-ri-chang-gong-zuo-zong-jie</id>
+    <link href="http://ditsing.github.io/blog/2012/03/28/acmju-le-bu-zhu-xi-ri-chang-gong-zuo-zong-jie/"/>
+    <updated>2012-03-28T13:47:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/03/28/acmju-le-bu-zhu-xi-ri-chang-gong-zuo-zong-jie</id>
     <content type="html"><![CDATA[<p>看了这个题目，大家一定想说，你是主席吗你就敢写总结？鄙人不才，正是HIT ACM俱乐部现任主席。</p>
 
 <p>HIT ACM俱乐部是计算机学院最有前途的俱乐部，没有之一。ACM俱乐部的主席却一点也不忙。虽然挂着主席的名，但是俱乐部日常的工作我是插不上手的。有我们的富二代金牌帝管理员<a href="http://icek.me">icek</a>大神在，俱乐部工作自然井井有条。那主席天天干什么呢？主席的职责有两条：</p>
@@ -459,9 +459,9 @@
   
   <entry>
     <title type="html"><![CDATA[jwc2ical小记]]></title>
-    <link href="http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji/"/>
-    <updated>2012-03-26T01:24:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/03/26/jwc2ical-xiao-ji</id>
+    <link href="http://ditsing.github.io/blog/2012/03/26/jwc2ical-xiao-ji/"/>
+    <updated>2012-03-26T01:24:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/03/26/jwc2ical-xiao-ji</id>
     <content type="html"><![CDATA[<p>谋划了一个学期的jwc2ical项目终于结束了，结果还算不错，有可用的产品，并且成功进行了推广。</p>
 
 <p>jwc2ical是我的第一个有意义的“项目”。做完了收获还是很多的，在这里做个总结。</p>
@@ -508,9 +508,9 @@
   
   <entry>
     <title type="html"><![CDATA[周日大事记]]></title>
-    <link href="http://ditsing.github.com/blog/2012/03/13/zhou-ri-da-shi-ji/"/>
-    <updated>2012-03-13T20:36:00-07:00</updated>
-    <id>http://ditsing.github.com/blog/2012/03/13/zhou-ri-da-shi-ji</id>
+    <link href="http://ditsing.github.io/blog/2012/03/13/zhou-ri-da-shi-ji/"/>
+    <updated>2012-03-13T20:36:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/03/13/zhou-ri-da-shi-ji</id>
     <content type="html"><![CDATA[<p>本来第三篇文章想写有关PHP和Perl的，但是上周日下午12个小时之内发生的事儿让我很有写篇文章的冲动。有三件事要写，就按时间顺序来吧。</p>
 
 <p>第一件是关于学习和未来的。周日下午，软件设计与实践课开题了，我们这个两人小组的题目是我选的。选了一个我很早很早之前的想法：把XFS移植到Windows下。题目很大，很激动人心，对我来说是个梦想式的题目。选这个题目我是有私心的，一方面希望自己能得到这方面(filesystem)的锻炼，另外一方面也希望能给我的简历能多个亮点。辛苦我的队友了。</p>
@@ -525,9 +525,9 @@
   
   <entry>
     <title type="html"><![CDATA[Blog开张啦]]></title>
-    <link href="http://ditsing.github.com/blog/2012/03/02/blogkai-zhang-la/"/>
-    <updated>2012-03-02T19:56:00-08:00</updated>
-    <id>http://ditsing.github.com/blog/2012/03/02/blogkai-zhang-la</id>
+    <link href="http://ditsing.github.io/blog/2012/03/02/blogkai-zhang-la/"/>
+    <updated>2012-03-02T19:56:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/03/02/blogkai-zhang-la</id>
     <content type="html"><![CDATA[<p>今天我的Blog正式开张啦，欢迎大家常来参观！</p>
 
 <p>Blog暂时放在Github上。请大家先不要收藏网址，因为我还没买域名^ _ ^。欢迎大家推荐主机～～</p>
@@ -538,10 +538,10 @@
   
   <entry>
     <title type="html"><![CDATA[记一件naive的事儿]]></title>
-    <link href="http://ditsing.github.com/blog/2012/03/02/ji-yi-jian-naivede-shi-er/"/>
-    <updated>2012-03-02T19:24:00-08:00</updated>
-    <id>http://ditsing.github.com/blog/2012/03/02/ji-yi-jian-naivede-shi-er</id>
-    <content type="html"><![CDATA[<p>最近在写一个关于课程表的程序，跟中文正则表达式打了很多交道。<!-- more -->比如一次我需要把“周三”中的那个“三”转成数字。作为一个菜鸟Perler，我在一切可以用到正则表达式的地方放上一个正则表达式。在这儿，我非常naive的认为，中文的“三”也是一个数字，正则里的 &#8220;\d&#8221; 应该可以匹配，于是我这么写了</p>
+    <link href="http://ditsing.github.io/blog/2012/03/02/ji-yi-jian-naivede-shi-er/"/>
+    <updated>2012-03-02T19:24:00+08:00</updated>
+    <id>http://ditsing.github.io/blog/2012/03/02/ji-yi-jian-naivede-shi-er</id>
+    <content type="html"><![CDATA[<p>最近在写一个关于课程表的程序，跟中文正则表达式打了很多交道。<!-- more -->比如一次我需要把“周三”中的那个“三”转成数字。作为一个菜鸟Perler，我在一切可以用到正则表达式的地方放上一个正则表达式。在这儿，我非常naive的认为，中文的“三”也是一个数字，正则里的 &ldquo;\d&rdquo; 应该可以匹配，于是我这么写了</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
