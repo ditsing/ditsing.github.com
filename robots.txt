@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ditsing.github.com/sitemap.xml 
+Sitemap: http://ditsing.com/sitemap.xml 
