@@ -4,7 +4,7 @@
   <title><![CDATA[Blog of Ditsing]]></title>
   <link href="http://ditsing.com/atom.xml" rel="self"/>
   <link href="http://ditsing.com/"/>
-  <updated>2013-10-23T10:17:16+11:00</updated>
+  <updated>2013-10-25T01:08:33+11:00</updated>
   <id>http://ditsing.com/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
@@ -12,6 +12,62 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[博客重新开张啦]]></title>
+    <link href="http://ditsing.com/blog/2013/10/22/bo-ke-zhong-xin-kai-zhang-la/"/>
+    <updated>2013-10-22T23:31:00+11:00</updated>
+    <id>http://ditsing.com/blog/2013/10/22/bo-ke-zhong-xin-kai-zhang-la</id>
+    <content type="html"><![CDATA[<p>从FB回来之后再没写过博客。原因很多，一个是因为忙，另外一个是因为&hellip;心灰意冷专心学术思考人生去了。</p>
+
+<p>那我为什么突然抽风要回来写日志了呢？</p>
+
+<ul>
+<li>第一，当然是因为在悉尼的生活稳定下来了。</li>
+<li>第二，经过努力终于修复了博客的评论数量，现在主页上的评论统计是正确的了。</li>
+<li>第三纯粹是个意外，我突然发现一年前的今天我搞了一个<a href="http://ditsing.com/todo-list/" title="Todo List">Todo list</a>。这个list上除了第一条之外我居然都完成了。这点让我非常开心。</li>
+</ul>
+
+
+<p>综上所述，心情好了就会来写博客了。</p>
+
+<p>我还是有一个写作计划的。
+<a href="https://class.coursera.org/compilers-selfservice/class" title="Compilers">Coursera上的Compiler</a>课程基本上学完了，要写心得体会；XFSd做完了也有很多话想说。把计划公布了就更有压力，希望我不会拖得太久。</p>
+
+<p>好吧，按照惯例，我来回忆一下一年的生活。各位看官可以不用继续往下读了。请期待我另外的两篇文章吧。</p>
+
+<!-- more -->
+
+
+<hr />
+
+<center>我最喜欢流水账了的分割线</center>
+
+
+<hr />
+
+<p></p>
+
+
+<p>这一年发生了很多事情，但是大部分都在计划之中。</p>
+
+<p>十一月份滚回家，在家里一直看美剧，休息了两个月。（其实是我不记得除了看美剧我到底干什么了，又没有写日记，各大网站上都找不到自己的活动记录。）修改：我在家呆了几天就直接回学校了。在学校花了四个星期时间修满了学分，途中还写了这辈子第一个RPC——middleware，用的还是从来没用过的Ruby。在学校还接了现在的Offer，给自己电脑加了内存，修改了简历投了湾区各大公司（并在接下来的几个月里被搓）。找@icek内推了豆瓣并拿到Offer（然后发现时间错不开拒掉了）。</p>
+
+<p>这样就到了元旦。我在元旦这一天坐上了回家的火车，开始了漫长的寒假。寒假基本贡献给了Cousera上的Compiler作业（和搜狐上的美剧）。这点可以从<a href="https://github.com/ditsing/compiler" title="Compiler">Github</a>上的<a href="https://github.com/ditsing/compiler/commits/master" title="Commits">commit</a>纪录看出来。当然我也参加了好多场TopCoder，其中大部分以暴跌收场。看我的人生这么艰难大家就不要拆穿我了。</p>
+
+<p>开学了之后我的主要活动就是Compiler和毕设了。在开始做毕设之后的很长一段时间里（长达一个月），我的主要活动还是集中在Compiler的作业上。主要原因是配置Windows驱动开发环境实在是太蛋疼了，我装了两台Win7一台Win8外加一个虚拟机才搞定。直到四月份毕业设计的中期检查dealine之前的一周，数量巨大的commits被提交到了我在Github的项目上。中期检查的时候disk image parser已经可以用了。</p>
+
+<p>中期检查之后我的工作的重心移到了XFSd的Windows接口上。开发XFSd的流程可以用Compiling Error(CE)&ndash;>删代码->CE->删代码->CE－>加代码->CE->删代码->CE&hellip;&hellip;&hellip;.&ndash;>WA->WA->WA来概括。经过5月初的一阵疯狂开发，项目在功能上基本成型了，但是有一个很大的Bug没有解决——磁盘镜像里的文件不能用命令行复制，但是自己写程序可以读出来。我花了很大精力来找这个bug的原因，但是直到毕设答辩也没找到。不过最后我还是fix了这个bug，但已经忘了是怎么fix的了。有些当时非常在意的事情，过了一段时间之后会发现也不过如此。</p>
+
+<p>五月份六月份初这一段时间，我又回过头去写了Compiler的第三个作业。作业有判分脚本，用各种case测试程序。刷分的感觉跟刷题差不多，过程非常开心。而且这一段我一直在家，狠狠地享受了一把生活。</p>
+
+<p>六月末七月初呢，毕设和论文时间。印象中我没有花多久在学习上面。很怀念我们班同学连续一周的疯狂聚餐。</p>
+
+<p>之后是另外两个半月安逸的生活。安逸之中突然得知办签证要考雅思，匆匆准备了之后就在八月中旬参加了考试，成绩还算可以接受。接下来又经历了很多很多办签证流程。不过我的签证格外给力，所有材料提交之后四天就被批准了。拿到了签证之后我终于想到要做点实事了，于是把Compiler的最后一个作业刷到了满分，并且看完了所有的教学视频。现在计划把小作业和Quiz都刷完之后写总结。</p>
+
+<p>最后就是刚刚过完的十月了。周末再来一篇文章写写搬家到悉尼的见闻。挖了好多坑啊。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[接近尾声：Facebook又三周]]></title>
