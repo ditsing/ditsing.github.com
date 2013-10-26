@@ -4,7 +4,7 @@
   <title><![CDATA[Blog of Ditsing]]></title>
   <link href="http://ditsing.com/atom.xml" rel="self"/>
   <link href="http://ditsing.com/"/>
-  <updated>2013-10-26T12:27:18+11:00</updated>
+  <updated>2013-10-26T16:30:03+11:00</updated>
   <id>http://ditsing.com/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
@@ -20,8 +20,7 @@
     <id>http://ditsing.com/blog/2013/10/26/yi-fa-zhi-li-xiao-wen-ti</id>
     <content type="html"><![CDATA[<p>前几天从同事那里听到了一个面试的小智力题，来给大家分享一下</p>
 
-<blockquote><p>翻转硬币的游戏。有一张方形的桌子，桌子四角放了四枚一模一样的硬币。在每一轮操作中，玩家可以任意反转这些硬币。一轮操作之后
-桌子会被水平旋转90度的倍数，但是玩家并不知道它被转了多少度。某一轮操作之后所有硬币都是正面或者都是反面朝上，则玩家获胜，游戏结束。
+<blockquote><p>有一张方形的桌子，桌子四角放了四枚一模一样的硬币。在每一轮操作中，玩家可以任意反转这些硬币。一轮操作之后，桌子会被水平旋转90度的倍数，但是玩家并不知道它被转了多少度。某一轮操作之后所有硬币都是正面或者都是反面朝上，则玩家获胜，游戏结束。
 求一个必胜策略。</p></blockquote>
 
 <p>提问者（一个印度人）说这个问题是面试题，大家五分钟之内就能想出来答案。我只能表示智商需要充值了。</p>
