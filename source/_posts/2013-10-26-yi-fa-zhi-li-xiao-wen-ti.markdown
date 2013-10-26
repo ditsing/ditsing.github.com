@@ -52,4 +52,4 @@ categories:
 变成了获胜、第一类和第二类。于是重复步骤1－3完成游戏。
 
 好久不写题了，贴个代码验证一下想法吧（自己爽一下吧）。希望我能早日回归，做上Topcoder。
-{% include_code Code for Verification cpp game_verify.cpp %}
+{% include_code Code for Verification lang:cpp game_verify.cpp %}
