@@ -4,7 +4,7 @@
   <title><![CDATA[Blog of Ditsing]]></title>
   <link href="http://ditsing.com/atom.xml" rel="self"/>
   <link href="http://ditsing.com/"/>
-  <updated>2013-11-17T23:01:22+11:00</updated>
+  <updated>2014-05-03T20:53:00+10:00</updated>
   <id>http://ditsing.com/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
@@ -882,7 +882,7 @@ ScopeTable很强大但是也很弱。整个表只能查但是不能遍历，这�
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[jwc2ical小记]]></title>
+    <title type="html"><![CDATA[Jwc2ical小记]]></title>
     <link href="http://ditsing.com/blog/2012/03/26/jwc2ical-xiao-ji/"/>
     <updated>2012-03-26T01:24:00+11:00</updated>
     <id>http://ditsing.com/blog/2012/03/26/jwc2ical-xiao-ji</id>
