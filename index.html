@@ -9,8 +9,7 @@
   <meta name="author" content="ditsing">
 
   
-  <meta name="description" content="从我高三听说“公开课”开始，我就觉得这个东西一定会有前途。那时候他们还叫Open Course Wave，公开课的形式还都是课程笔记和清晰度超低的课堂视频。当时我看完了流行的《哲学：死亡》和《聆听音乐》，哈佛的《公正》和《幸福》都只看了一点点。另外还囤下了
-好几套课程，一直拖到现在都没有接着看。 &hellip;">
+  <meta name="description" content="一年没有写博客了，写一个我今年在工作中遇到的问题吧。 首先有一个字符串集合A（母串集），A中大概有1.6x1010个字符串。这些字符串大部分都比较短，长度小于100。最长的字符串有216个字符。 还有一个比较小的字符串集合B（子串集）。B里的每个字符串都是A里某个字符串的前缀，共有2. &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -80,6 +79,60 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti/">记一个工作中遇到的问题</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-09-23T21:30:47+10:00" pubdate data-updated="true">Sep 23<span>rd</span>, 2014</time>
+        
+           | <a href="/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti/#disqus_thread"
+             data-disqus-identifier="http://ditsing.com/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti/">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>一年没有写博客了，写一个我今年在工作中遇到的问题吧。</p>
+
+<blockquote><p>首先有一个字符串集合<code>A</code>（母串集），<code>A</code>中大概有1.6x10<sup>10</sup>个字符串。这些字符串大部分都比较短，长度小于100。最长的字符串有2<sup>16</sup>个字符。</p>
+
+<p>还有一个比较小的字符串集合<code>B</code>（子串集）。<code>B</code>里的每个字符串都是<code>A</code>里某个字符串的前缀，共有2.4x10<sup>7</sup>个前缀。<code>B</code>中的每个字符串都与一个非负整数相关联。</p>
+
+<p>现在对于<code>A</code>中的每个字符串<code>a_i</code>，求一个整数。这个整数等于<code>B</code>中所有<code>a_i</code>的前缀所对应的整数的最大值。</p></blockquote>
+
+<p>（之前已经听我白话过这个问题的同学们：是的，问题规模又扩大了。）</p>
+
+<p>背景：<code>A</code>是数据的key集合，<code>B</code>是用户的删除数据请求，删除被匹配的key和它对应的数据。因此，最后<code>A</code>中被匹配到的字符串不会特别多，大约是<code>B</code>的大小的若干倍。可以认为远小于100倍。</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
   
   
     <article>
@@ -619,69 +672,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/08/19/googlemian-shi/">Google面试</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-08-19T22:33:00+10:00" pubdate data-updated="true">Aug 19<span>th</span>, 2012</time>
-        
-           | <a href="/blog/2012/08/19/googlemian-shi/#disqus_thread"
-             data-disqus-identifier="http://ditsing.com/blog/2012/08/19/googlemian-shi/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>两个星期之前的一个周五下午，我正在家里寂寞的学着JS，一封突然到来的邮件打破了我宁静的生活——&#8221;Greeting from Google!&ldquo;。眼看明年的工作还没着落，我欣然接受了邮件里的面试邀请。跟一个Google中国的HR用英文发邮件是件很奇怪的事儿，不过HR很给力，我的面试日期很快就定下来了。</p>
-
-<p>Google面试的风格跟我面的其他公司很不一样，每次都会要求自我介绍——就是介绍自己的项目。各位有志于Google的童鞋最好先准备一下。顺便提一句，我每次说的项目都不一样哦。</p>
-
-<p>一面是这样的，首先是自我介绍——blablabla说了点。然后是一道很无趣的遍历二叉树的题，面试官规定了我需要实现的函数的原型，让我先说说想法然后写代码。我说了一个做法，然后实现了另外一个（囧）。最后面试官给了一道题目：</p>
-
-<blockquote><p> 求一个数字集合里最长的连续数字串的长度。例如<code>{ 1 2 9 10 11 3 12 7}</code>中的<code>{ 9 10 11 12}</code></p></blockquote>
-
-<p>我的第一反应当然是排序了。面试官问有没有更好的解法，经过他的提示我想到了Hash。但是在估计复杂度的时候，面试官坚决不同意我“可以认为Hash中的冲突很少”的看法。所以我得到了<code>O(N^2)</code>的复杂度。事后我一想，不能认为Hash冲突很少我还用个毛Hash 啊！面试完的那个晚上我没有睡着，脑子里全是这个问题，但是没有找到更好的方法。请问各路大神，这题有没有更优的解法？</p>
-
-<p>二面同样给我留下了深刻的印象。自我介绍，blablabla。面试官出的第一题是从一个数字串中找到最长的递增子串。很显然是<code>O(N)</code>的对吧，面试官问我有没有更优的。我嗯啊呀哈了五分钟之后，面试官说，如果要求递增的差为1，有没有更优的方法？我&hellip;.扯了一个没有用的方法给他。第二题是二合一，首先面试官要求我求出一个线段集合里相交的线段。我先搞了一个naive的线段合并，可以判断出某线段是否和别的线段相交。之后面试官增加了要求：</p>
-
-<blockquote><p> 输出线段集合中的相交线段的子集，如果线段<code>A, B, C, D</code>中，<code>A, B, D</code>两两相交，<code>B</code>和<code>C</code>相交，<code>A</code>和<code>C</code>不相交，输出集合<code>{A B D}</code>和<code>{B C}</code>。</p></blockquote>
-
-<p>我首先给出了离散化并查集的<code>O(N^2)</code>方法。有没有更优的？我当场怀疑这样的集合会有<code>O(N)</code>个，每个会有<code>O(N)</code>个元素。但是当时没有找到这样的例子，于是扯了一个Splay延迟标记维护的方法并号称是<code>O(NlogN)</code>的。事实证明，还是存在能让输出复杂度达到<code>O(N^2)</code>的例子的。我又花了一个晚上才想到的这个例子。</p>
-
-<p>不管怎么样，我拿到了Onsite的资格（八成是考虑到竞争对手的Offer吧）。Onsite就靠谱多了，至少题目都是可以答的。</p>
-
-<p>一面第一步照例是自我介绍，blablabla。第二步是个不太难的题目，跟线段相关的。题目不重要，重要的是面试官首先要求我详细的叙述我的想法，之后在纸上写伪代码，最后要求我翻译成代码，并且要用设计合理的函数完成这个程序。第三步是个加强版的题目，因为时间不多了我草草写了几笔。</p>
-
-<p>中午跟面试官一起吃了饭，畅谈了一下人生理想。面试官建议我不要急着工作，先去旅旅游见见世面，还跟我分享了他当年单独去越南旅游的经历。我本来还想明年先来实习呢，但是现在觉得，玩儿命工作还是享受人生，这是个问题。顺便说一句，Google上海的自助餐厅大概只能容纳100人，借此可以估计一下Google上海的规模。另外，盛传Google中国没有什么技术类的活，其实不是的，他们还是负担着非常多的开发任务的。</p>
-
-<p>二面的面试官是一个比较威严的工程师。他的题目也很有意思，都是比较偏向于数学的，每次除了描述想法之外，还要求有非形式化的证明。他在我证明的过程中要求我澄清几乎每个概念，力求严谨。猴神可能会比较喜欢这样的题目。两道这样的题目之后，面试官出了一道<code>Design</code>的题目，要求我设计一个关于指针的工具类，并独立做出各种决策。在考虑了N多问题之后，我卡在了拷贝的实现策略中，超时了。面试官安慰我说这样的题目是没有一个固定的答案的，讨论的过程更重要。</p>
-
-<p>这样我的四次面试就结束了。虽然我自我感觉良好，但是我的表现实在不很完美。也许我应该等结果出来再来写这篇得瑟的博客。但是现在，我还是抓紧享受一下生活吧。</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/2/">&larr; Older</a>
@@ -697,6 +687,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti/">记一个工作中遇到的问题</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2013/11/17/compilerxue-hou/">Compiler学后</a>
       </li>
     
@@ -710,10 +704,6 @@
     
       <li class="post">
         <a href="/blog/2012/11/11/jie-jin-wei-sheng-%3Afacebookyou-san-zhou/">接近尾声：Facebook又三周</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/10/21/yi-xie-xiang-fa-%3Afbqi-ba-zhou/">一些想法：FB七八周</a>
       </li>
     
   </ul>
