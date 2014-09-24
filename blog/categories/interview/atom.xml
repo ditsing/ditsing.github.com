@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Interview | Blog of Ditsing]]></title>
-  <link href="http://ditsing.com/blog/categories/interview/atom.xml" rel="self"/>
-  <link href="http://ditsing.com/"/>
-  <updated>2014-09-23T22:35:14+10:00</updated>
-  <id>http://ditsing.com/</id>
+  <link href="http://www.ditsing.com/blog/categories/interview/atom.xml" rel="self"/>
+  <link href="http://www.ditsing.com/"/>
+  <updated>2014-09-24T15:57:59+10:00</updated>
+  <id>http://www.ditsing.com/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
     <email><![CDATA[ditsing@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Google面试]]></title>
-    <link href="http://ditsing.com/blog/2012/08/19/googlemian-shi/"/>
+    <link href="http://www.ditsing.com/blog/2012/08/19/googlemian-shi/"/>
     <updated>2012-08-19T22:33:00+10:00</updated>
-    <id>http://ditsing.com/blog/2012/08/19/googlemian-shi</id>
+    <id>http://www.ditsing.com/blog/2012/08/19/googlemian-shi</id>
     <content type="html"><![CDATA[<p>两个星期之前的一个周五下午，我正在家里寂寞的学着JS，一封突然到来的邮件打破了我宁静的生活——"Greeting from Google!&ldquo;。眼看明年的工作还没着落，我欣然接受了邮件里的面试邀请。跟一个Google中国的HR用英文发邮件是件很奇怪的事儿，不过HR很给力，我的面试日期很快就定下来了。</p>
 
 <p>Google面试的风格跟我面的其他公司很不一样，每次都会要求自我介绍——就是介绍自己的项目。各位有志于Google的童鞋最好先准备一下。顺便提一句，我每次说的项目都不一样哦。</p>
@@ -48,9 +48,9 @@
   
   <entry>
     <title type="html"><![CDATA[微软霸王面归来：怒！]]></title>
-    <link href="http://ditsing.com/blog/2012/04/19/wei-ruan-ba-wang-mian-gui-lai-%3Anu-%21/"/>
+    <link href="http://www.ditsing.com/blog/2012/04/19/wei-ruan-ba-wang-mian-gui-lai-%3Anu-%21/"/>
     <updated>2012-04-19T21:15:00+10:00</updated>
-    <id>http://ditsing.com/blog/2012/04/19/wei-ruan-ba-wang-mian-gui-lai-:nu-!</id>
+    <id>http://www.ditsing.com/blog/2012/04/19/wei-ruan-ba-wang-mian-gui-lai-:nu-!</id>
     <content type="html"><![CDATA[<p>今天早上六点我从睡意朦胧中醒来，开始了今天的MS霸王面之旅。</p>
 
 <p>洗漱吃完饭加上各种杂事，我们一行四人到达香格里拉酒店的时候已经是七点半了。卢大神有面试通知，直接去面试了。icek大神，canoe大神和我尝试与HR姐姐沟通争取面试机会。第一被秒的是icek，他被秒的非常欢乐，具体细节不说了。HR姐姐留下了canoe学长和我的简历并承诺替我们找机会，因为面试官都很忙。十点卢大神面完了出来我们才被告知12点之前不会有时间了。于是我们三个就回到了学校。卢大神的情况貌似还不错，我们也都挺高兴的去上了半节编译原理。</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Life | Blog of Ditsing]]></title>
-  <link href="http://ditsing.com/blog/categories/life/atom.xml" rel="self"/>
-  <link href="http://ditsing.com/"/>
-  <updated>2014-09-23T22:35:14+10:00</updated>
-  <id>http://ditsing.com/</id>
+  <link href="http://www.ditsing.com/blog/categories/life/atom.xml" rel="self"/>
+  <link href="http://www.ditsing.com/"/>
+  <updated>2014-09-24T15:57:59+10:00</updated>
+  <id>http://www.ditsing.com/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
     <email><![CDATA[ditsing@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[记一个工作中遇到的问题]]></title>
-    <link href="http://ditsing.com/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti/"/>
+    <link href="http://www.ditsing.com/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti/"/>
     <updated>2014-09-23T21:30:47+10:00</updated>
-    <id>http://ditsing.com/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti</id>
+    <id>http://www.ditsing.com/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti</id>
     <content type="html"><![CDATA[<p>一年没有写博客了，写一个我今年在工作中遇到的问题吧。</p>
 
 <blockquote><p>首先有一个字符串集合<code>A</code>（母串集），<code>A</code>中大概有1.6x10<sup>10</sup>个字符串。这些字符串大部分都比较短，长度小于100。最长的字符串有2<sup>16</sup>个字符。</p>
@@ -117,9 +117,9 @@
   
   <entry>
     <title type="html"><![CDATA[Compiler学后]]></title>
-    <link href="http://ditsing.com/blog/2013/11/17/compilerxue-hou/"/>
+    <link href="http://www.ditsing.com/blog/2013/11/17/compilerxue-hou/"/>
     <updated>2013-11-17T22:40:00+11:00</updated>
-    <id>http://ditsing.com/blog/2013/11/17/compilerxue-hou</id>
+    <id>http://www.ditsing.com/blog/2013/11/17/compilerxue-hou</id>
     <content type="html"><![CDATA[<p>从我高三听说“公开课”开始，我就觉得这个东西一定会有前途。那时候他们还叫Open Course Wave，公开课的形式还都是课程笔记和清晰度超低的课堂视频。当时我看完了流行的《哲学：死亡》和《聆听音乐》，哈佛的《公正》和《幸福》都只看了一点点。另外还囤下了
 好几套课程，一直拖到现在都没有接着看。可惜当时没有抓紧时间上《Algorithm》和C语言的课程，要不然上大学的时候也不会那么智商捉急了。</p>
 
@@ -184,9 +184,9 @@ ScopeTable很强大但是也很弱。整个表只能查但是不能遍历，这�
   
   <entry>
     <title type="html"><![CDATA[博客重新开张啦]]></title>
-    <link href="http://ditsing.com/blog/2013/10/22/bo-ke-zhong-xin-kai-zhang-la/"/>
+    <link href="http://www.ditsing.com/blog/2013/10/22/bo-ke-zhong-xin-kai-zhang-la/"/>
     <updated>2013-10-22T23:31:00+11:00</updated>
-    <id>http://ditsing.com/blog/2013/10/22/bo-ke-zhong-xin-kai-zhang-la</id>
+    <id>http://www.ditsing.com/blog/2013/10/22/bo-ke-zhong-xin-kai-zhang-la</id>
     <content type="html"><![CDATA[<p>从FB回来之后再没写过博客。原因很多，一个是因为忙，另外一个是因为&hellip;心灰意冷专心学术思考人生去了。</p>
 
 <p>那我为什么突然抽风要回来写日志了呢？</p>
@@ -240,9 +240,9 @@ ScopeTable很强大但是也很弱。整个表只能查但是不能遍历，这�
   
   <entry>
     <title type="html"><![CDATA[接近尾声：Facebook又三周]]></title>
-    <link href="http://ditsing.com/blog/2012/11/11/jie-jin-wei-sheng-%3Afacebookyou-san-zhou/"/>
+    <link href="http://www.ditsing.com/blog/2012/11/11/jie-jin-wei-sheng-%3Afacebookyou-san-zhou/"/>
     <updated>2012-11-11T21:57:00+11:00</updated>
-    <id>http://ditsing.com/blog/2012/11/11/jie-jin-wei-sheng-:facebookyou-san-zhou</id>
+    <id>http://www.ditsing.com/blog/2012/11/11/jie-jin-wei-sheng-:facebookyou-san-zhou</id>
     <content type="html"><![CDATA[<p>第九，第十，第十一周。今晚是我本周唯一一个过了九点还不困的晚上。</p>
 
 <ol>
@@ -263,9 +263,9 @@ ScopeTable很强大但是也很弱。整个表只能查但是不能遍历，这�
   
   <entry>
     <title type="html"><![CDATA[一些想法：FB七八周]]></title>
-    <link href="http://ditsing.com/blog/2012/10/21/yi-xie-xiang-fa-%3Afbqi-ba-zhou/"/>
+    <link href="http://www.ditsing.com/blog/2012/10/21/yi-xie-xiang-fa-%3Afbqi-ba-zhou/"/>
     <updated>2012-10-21T22:05:00+11:00</updated>
-    <id>http://ditsing.com/blog/2012/10/21/yi-xie-xiang-fa-:fbqi-ba-zhou</id>
+    <id>http://www.ditsing.com/blog/2012/10/21/yi-xie-xiang-fa-:fbqi-ba-zhou</id>
     <content type="html"><![CDATA[<p>首先恭喜HIT_Encore拿下今年第一枚金牌，我死也瞑目了。今年注定是ACM@HIT丰收的一年，加油！</p>
 
 <p>时间过的真快，在FB的第七第八周也结束了。这两周没有什么remarkable的工作：做幻灯片，修修补补加功能。基本都是在耍小聪明，没什么可以写的。</p>

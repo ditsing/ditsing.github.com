@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Work | Blog of Ditsing]]></title>
-  <link href="http://ditsing.com/blog/categories/work/atom.xml" rel="self"/>
-  <link href="http://ditsing.com/"/>
-  <updated>2014-09-23T22:35:14+10:00</updated>
-  <id>http://ditsing.com/</id>
+  <link href="http://www.ditsing.com/blog/categories/work/atom.xml" rel="self"/>
+  <link href="http://www.ditsing.com/"/>
+  <updated>2014-09-24T15:57:59+10:00</updated>
+  <id>http://www.ditsing.com/</id>
   <author>
     <name><![CDATA[ditsing]]></name>
     <email><![CDATA[ditsing@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[记一个工作中遇到的问题]]></title>
-    <link href="http://ditsing.com/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti/"/>
+    <link href="http://www.ditsing.com/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti/"/>
     <updated>2014-09-23T21:30:47+10:00</updated>
-    <id>http://ditsing.com/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti</id>
+    <id>http://www.ditsing.com/blog/2014/09/23/ji-yi-ge-gong-zuo-zhong-yu-dao-de-wen-ti</id>
     <content type="html"><![CDATA[<p>一年没有写博客了，写一个我今年在工作中遇到的问题吧。</p>
 
 <blockquote><p>首先有一个字符串集合<code>A</code>（母串集），<code>A</code>中大概有1.6x10<sup>10</sup>个字符串。这些字符串大部分都比较短，长度小于100。最长的字符串有2<sup>16</sup>个字符。</p>
